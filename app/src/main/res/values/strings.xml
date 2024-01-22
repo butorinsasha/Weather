@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather">Weather</string>
+    <string name="title_activity_weather_detail">Weather Details</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="temp_placeholder">Temperature</string>
+    <string name="pressure_mm_placeholder">Pressure (mm)</string>
+    <string name="humidity_placeholder">Humidity</string>
+</resources>
