@@ -11,18 +11,21 @@
         android:id="@+id/temp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="18sp"
         android:text="@string/temp_placeholder"/>
 
     <TextView
         android:id="@+id/pressure_mm"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="18sp"
         android:text="@string/pressure_mm_placeholder"/>
 
     <TextView
         android:id="@+id/humidity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="18sp"
         android:text="@string/humidity_placeholder"/>
 
 </LinearLayout>

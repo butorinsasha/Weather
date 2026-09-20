@@ -19,3 +19,6 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+-keepattributes SourceFile,LineNumberTable
+-keep class com.example.weather.api.yandex.YandexWeatherModel { *; }
+-keep class com.example.weather.api.yandex.YandexWeatherModel$Fact { *; }
